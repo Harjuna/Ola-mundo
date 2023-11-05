@@ -6,3 +6,8 @@ Repositório criado durante a primeira aula.
 Alteração remota na web.
 segunda alteração offline.
 Terceira atualização após login.
+
+Quarta parte:
+Atualização web
+git pull
+
